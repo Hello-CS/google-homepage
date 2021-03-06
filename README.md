@@ -2,6 +2,8 @@
 
 This is the Foundation project for The Odin Project - Google Homepage.
 
+Link: https://hello-cs.github.io/google-homepage
+
 I will be creating a clone of the Google homepage in this repository displaying
 a set number of skills as listed below.
 
